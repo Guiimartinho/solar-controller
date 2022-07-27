@@ -1,5 +1,2 @@
 # Solar Controller
 
-## License
-
-MIT
